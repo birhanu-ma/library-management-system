@@ -1,3 +1,4 @@
+package libraryManagement;
 public class BookDetail {
     public String bookId;
     public String bookTitle;
